@@ -1,4 +1,4 @@
-# **Notebooks**
+# **[Deprecated] Notebooks**
 
 Feel free to use the following Python notebooks:
 
